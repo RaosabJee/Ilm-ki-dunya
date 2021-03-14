@@ -16,4 +16,4 @@ Create a free VPS with 2cpu-7gb Ram FREE with Github:
 + Reload the page and press CI> build
 + Press the down arrow on Connect To Your RPD to get IP, User, Password.
 
-*IF MY REPO GOT DELETED,ON YOUR GITHUB GO TO .github/workflows > RDP-US.yml AND EDIT NEW LINK TO YOUR REPO. ALL .BAT in Files FOLDER* 
+*Donot try this its private* 
